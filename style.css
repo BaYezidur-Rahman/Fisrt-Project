@@ -6,4 +6,18 @@
 
 .container{
     padding: 0 10px;
+    margin: 10px 0;
+    text-align: center;
+
+}
+
+.container h4{
+    font-size: 30px;
+    width: 100%;
+    background-color: lightgray;
+}
+.container p{
+    font-size: 20px;
+    width: 100%;
+    background-color: lightblue;
 }
