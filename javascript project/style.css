@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: lightblue;
+}
+
+header nav{
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    background: linear-gradient(45deg, rgb(223, 0, 104) ,rgb(97, 0, 0));
+}
+
+header nav h3{
+    cursor: kljHAi=;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+header nav ul{
+    display: flex;
+    margin-left: auto;
+    
+}
+header nav ul li{
+    display: flex;
+    margin-left: 10px;
+    list-style: none;
+    
+}
+header nav ul li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: all .5s ease;
+}
+header nav ul li a:hover{
+    color: rgb(212, 204, 204);
+    text-decoration: none;
+    background-color: mediumslateblue;
+    padding: 10px;
+}
+
