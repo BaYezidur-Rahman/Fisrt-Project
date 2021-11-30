@@ -42,16 +42,7 @@ nav ul li{
     margin-left: 10px;
     transition: all .5s ease-in-out;
 }
-nav ul li:hover{
-    /* display: flex;
-    align-items: center; */
-    color: black;
-    background: white;
-    height: 40px;
-    padding: 0 5px;
-    border-radius: 4px;
 
-}
 
 nav ul li a{
     
@@ -61,12 +52,8 @@ nav ul li a{
     border: none;
    
 }
-nav ul li a:hover{
-    display: flex;align-items: center;
-    color: black;
-    font-weight: 600;
-    text-shadow: 0 2px 3px rgba(12, 12, 12, 0.281);
- 
+nav ul li a:hover{ 
+    color: rgb(216, 214, 214);
 }
 
 
